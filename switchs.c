@@ -3,7 +3,7 @@ int main()
 
 {
     int age;
-    printf("Enter your age: ");
+    printf("Enter your age: 13");
     scanf("%d",&age);
 
     switch (age)
