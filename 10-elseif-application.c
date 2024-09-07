@@ -3,7 +3,7 @@ int main()
 
 {
     //print the type of gift you are giving to them
-    // maths and science 45 only maths 15 only science 15
+    //maths and science 45 only maths 15 only science 15
     int n;
     printf("Which subjects did you pass?\n");
     printf("Enter 1 if you passed in both Maths and Science\nEnter 2 if you passed only in Maths\nEnter 3 if you passed only in Science\n");
