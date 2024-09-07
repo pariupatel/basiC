@@ -6,8 +6,7 @@ int main()
     printf("Enter your age: 13");
     scanf("%d",&age);
 
-    switch (age)
-    {
+    switch (age){
     case 3:
         printf("The age is 3");
         break;
