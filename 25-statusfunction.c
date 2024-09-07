@@ -2,7 +2,7 @@
 
 void showstatus()
 {
-    //wihtout argument without return value
+    //without argument without return value
     printf("The work is in progress...");
 }
 
