@@ -1,4 +1,4 @@
-//array reversal
+//array reversing
 
 #include <stdio.h>
 void arrayreverse(int array[])
